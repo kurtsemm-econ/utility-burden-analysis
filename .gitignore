@@ -1,0 +1,19 @@
+# macOS / R clutter
+.DS_Store
+.Rhistory
+.Rproj.user/
+
+# Quarto
+.quarto/
+_site/
+
+# IPUMS extracts (do not publish)
+usa_*.dat.gz
+usa_*.xml
+
+# R data objects
+*.rds
+
+# Optional: documents (uncomment if you don't want them public)
+# *.pdf
+# *.xlsx
