@@ -32,11 +32,12 @@ outputs/ contains summary tables and figures
 
 Utility affordability is a central concern for regulators and public agencies. This analysis provides a framework for evaluating:
 
-how utility costs impact households relative to income
-distributional effects of rate structures
-equity considerations in infrastructure and pricing decisions
+- How utility costs impact households relative to income
+- Distributional effects of rate structures
+- Equity considerations in infrastructure and pricing decisions
 
 ## Tools
 
 R (tidyverse, ipumsr, survey)
+
 Large-scale microdata processing and statistical analysis
