@@ -25,8 +25,8 @@ library(formattable)
 # 2017-2023 is usa_00026
 # 2009-2016 is usa_00027
 # is usa_00028
-cps_ddi <- read_ipums_ddi("usa_00028.xml")
-cps_data <- read_ipums_micro(cps_ddi, data_file = "usa_00028.dat.gz", verbose = FALSE)
+cps_ddi <- read_ipums_ddi("usa_00027.xml")
+cps_data <- read_ipums_micro(cps_ddi, data_file = "usa_00027.dat.gz", verbose = FALSE)
 
 
 ## Clean data: water cost and income > 1, non-farm, full plumbing, SNAP, household head, COUNTYFIP not missing
@@ -210,6 +210,9 @@ cps_usa <- cps_usa %>%
       TRUE ~ NA_character_
     ))
   )
+# Robin Run code to here. 
+saveRDS(cps_usa, "17_23_cps_usa.rds")
+# saveRDS(cps_usa, "09_16_cps_usa.rds")
 
 #Check Years 
 summary(cps_usa$YEAR)
@@ -377,7 +380,6 @@ M_x_y_z <- function(d, x, y, z) { # Interaction information of Y, Z for X
   names(ret3)[2] <- deparse(substitute(z))
   ret3
 }
-
 
 # Make sure EDUC4 is ordered nicely
 cps_usa <- cps_usa %>%
