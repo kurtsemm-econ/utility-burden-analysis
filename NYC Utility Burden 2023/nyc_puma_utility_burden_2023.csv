@@ -1,0 +1,56 @@
+PUMA,Borough,Area,n,hhwt_sum,median_util_burden,median_burden_pct,burden_index
+4005,NA,NA,NA,NA,NA,NA,NA
+3810,NA,NA,NA,NA,NA,NA,NA
+3806,NA,NA,NA,NA,NA,NA,NA
+3801,Manhattan,"Manhattan Community District 12--Washington Heights, Inwood & Marble Hill",672,75051,0.0461538461538462,4.615384615384619,167.76556776556782
+3701,Bronx,"Bronx Community District 8--Riverdale, Fieldston & Kingsbridge",960,93111,0.0385454545454545,3.85454545454545,140.10966810966787
+4018,NA,NA,NA,NA,NA,NA,NA
+4114,NA,NA,NA,NA,NA,NA,NA
+3903,Staten Island,"Staten Island Community District 1--Port Richmond, Stapleton & Mariner's Harbor",547,51586,0.030952380952381,3.0952380952381,112.50944822373404
+4013,NA,NA,NA,NA,NA,NA,NA
+4012,Brooklyn,Brooklyn Community District 7--Sunset Park & Windsor Terrace,620,38245,0.0442105263157895,4.42105263157895,160.7017543859649
+4008,NA,NA,NA,NA,NA,NA,NA
+3805,NA,NA,NA,NA,NA,NA,NA
+3708,Bronx,"Bronx Community District 4--Concourse, Highbridge & Mount Eden",413,32545,0.0432,4.32,157.02857142857135
+3704,Bronx,"Bronx Community District 11--Pelham Parkway, Morris Park & Laconia",940,96692,0.0333783783783784,3.33783783783784,121.32775632775633
+4004,NA,NA,NA,NA,NA,NA,NA
+3703,Bronx,"Bronx Community District 10--Co-op City, Pelham Bay & Schuylerville",793,98003,0.0428571428571429,4.28571428571429,155.78231292517015
+3702,Bronx,"Bronx Community District 12--Wakefield, Williamsbridge & Woodlawn",727,87019,0.0371428571428572,3.7142857142857197,135.01133786848087
+4103,Queens,"Queens Community District 7--Flushing, Murray Hill & Whitestone",1125,131128,0.0198895027624309,1.98895027624309,72.296764009471
+4009,NA,NA,NA,NA,NA,NA,NA
+3705,Bronx,"Bronx Community District 3 & 6--Belmont, Crotona Park East & East Tremont",665,56619,0.0376623376623377,3.7662337662337704,136.89960832817982
+4016,NA,NA,NA,NA,NA,NA,NA
+3802,Manhattan,"Manhattan Community District 9--Hamilton Heights, Manhattanville & West Harlem",1007,93652,0.04,4,145.3968253968253
+3804,NA,NA,NA,NA,NA,NA,NA
+3807,NA,NA,NA,NA,NA,NA,NA
+3809,NA,NA,NA,NA,NA,NA,NA
+3901,Staten Island,"Staten Island Community District 3--Tottenville, Great Kills & Annadale",378,45323,0.0284285714285714,2.84285714285714,103.33560090702932
+3902,Staten Island,Staten Island Community District 2--New Springville & South Beach,439,42950,0.0249056603773585,2.4905660377358503,90.53009883198563
+4007,NA,NA,NA,NA,NA,NA,NA
+4011,Brooklyn,"Brooklyn Community District 9--Crown Heights South, Prospect Lefferts & Wingate",485,47668,0.035952380952381,3.5952380952381,130.6840513983372
+4106,NA,NA,NA,NA,NA,NA,NA
+4107,Queens,Queens Community District 4--Elmhurst & South Corona,537,97983,0.00883048620236531,0.8830486202365311,32.09811651335961
+4110,Queens,"Queens Community District 5--Ridgewood, Glendale & Middle Village",238,42755,0.0144578313253012,1.44578313253012,52.55306942053925
+4017,NA,NA,NA,NA,NA,NA,NA
+3803,Manhattan,Manhattan Community District 10--Central Harlem,379,44353,0.0249645390070922,2.49645390070922,90.74411797816049
+3707,Bronx,"Bronx Community District 5--Morris Heights, Fordham South & Mount Hope",376,29865,0.0412337662337662,4.12337662337662,149.88146773861038
+3706,Bronx,"Bronx Community District 7--Bedford Park, Fordham North & Norwood",445,35360,0.0450731707317073,4.50731707317073,163.8373983739836
+4104,Queens,"Queens Community District 11--Bayside, Douglaston & Little Neck",910,117070,0.0130434782608696,1.3043478260869599,47.4120082815736
+4105,NA,NA,NA,NA,NA,NA,NA
+4113,NA,NA,NA,NA,NA,NA,NA
+4002,NA,NA,NA,NA,NA,NA,NA
+4014,NA,NA,NA,NA,NA,NA,NA
+4001,NA,NA,NA,NA,NA,NA,NA
+4006,NA,NA,NA,NA,NA,NA,NA
+3808,NA,NA,NA,NA,NA,NA,NA
+3710,Bronx,"Bronx Community District 1 & 2--Hunts Point, Longwood & Melrose",509,44539,0.028125,2.8125,102.2321428571428
+3709,Bronx,"Bronx Community District 9--Castle Hill, Clason Point & Parkchester",433,38427,0.028,2.8000000000000003,101.77777777777773
+4112,Queens,"Queens Community District 12--Jamaica, Hollis & St. Albans",308,50100,0.016,1.6,58.15873015873013
+4015,NA,NA,NA,NA,NA,NA,NA
+4010,NA,NA,NA,NA,NA,NA,NA
+4111,Queens,Queens Community District 9--Richmond Hill & Woodhaven,221,34278,0.00929577464788733,0.929577464788733,33.78940308517774
+4003,NA,NA,NA,NA,NA,NA,NA
+4101,Queens,Queens Community District 1--Astoria & Long Island City,713,76147,0.0335664335664336,3.35664335664336,122.01132201132208
+4102,Queens,Queens Community District 3--Jackson Heights & North Corona,365,46092,0.0281632653061225,2.81632653061225,102.37123420796902
+4109,Queens,Queens Community District 2--Sunnyside & Woodside,201,31080,0.015623062616243,1.5623062616243,56.78859268443881
+4108,Queens,Queens Community District 6--Forest Hills & Rego Park,672,102491,0.00674019607843137,0.6740196078431371,24.50007780890132
