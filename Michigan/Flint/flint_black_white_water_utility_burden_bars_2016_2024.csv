@@ -1,0 +1,25 @@
+YEAR,CPUMA0010,Area,household_group,PUMA_components,n,meets_min_n,hhwt_sum,median_water_burden,median_water_burden_pct,mean_water_burden_capped,mean_water_burden_capped_pct
+2016,489,Central Genesee outside Flint,Black households,"Genesee County (Central, Outside Flint City)",37,TRUE,5459,4.7619047619047624e-4,0.04761904761904762,0.011355531943106758,1.1355531943106758
+2016,489,Central Genesee outside Flint,White households,"Genesee County (Central, Outside Flint City)",224,TRUE,26717,0.006666666666666667,0.6666666666666667,0.011079555002155697,1.1079555002155697
+2016,490,Flint city area,Black households,Genesee County (Central)--Flint City Area,67,TRUE,7916,0.01764705882352941,1.7647058823529411,0.02250279868693821,2.250279868693821
+2016,490,Flint city area,White households,Genesee County (Central)--Flint City Area,63,TRUE,9030,0.01935483870967742,1.935483870967742,0.023353731298787286,2.3353731298787284
+2017,489,Central Genesee outside Flint,Black households,"Genesee County (Central, Outside Flint City)",40,TRUE,7371,0.007908611599297012,0.7908611599297013,0.01030836477127011,1.030836477127011
+2017,489,Central Genesee outside Flint,White households,"Genesee County (Central, Outside Flint City)",214,TRUE,24156,0.0068914956011730194,0.689149560117302,0.010787892073871971,1.0787892073871972
+2017,490,Flint city area,Black households,Genesee County (Central)--Flint City Area,79,TRUE,11538,0.017482517482517484,1.7482517482517483,0.025660106767137498,2.56601067671375
+2017,490,Flint city area,White households,Genesee County (Central)--Flint City Area,75,TRUE,11698,0.02321428571428572,2.321428571428572,0.0255777496962165,2.5577749696216503
+2018,489,Central Genesee outside Flint,Black households,"Genesee County (Central, Outside Flint City)",32,TRUE,5289,0,0,0.012565048830635648,1.2565048830635648
+2018,489,Central Genesee outside Flint,White households,"Genesee County (Central, Outside Flint City)",214,TRUE,25158,0.007894736842105265,0.7894736842105265,0.01255974044539094,1.255974044539094
+2018,490,Flint city area,Black households,Genesee County (Central)--Flint City Area,71,TRUE,12467,0.020793950850661626,2.0793950850661624,0.027219560811121625,2.7219560811121624
+2018,490,Flint city area,White households,Genesee County (Central)--Flint City Area,70,TRUE,10580,0.018786692759295495,1.8786692759295496,0.02279836652330788,2.279836652330788
+2019,489,Central Genesee outside Flint,Black households,"Genesee County (Central, Outside Flint City)",42,TRUE,6001,0.006285714285714285,0.6285714285714286,0.012506230241994135,1.2506230241994134
+2019,489,Central Genesee outside Flint,White households,"Genesee County (Central, Outside Flint City)",222,TRUE,23203,0.00847457627118644,0.847457627118644,0.012645047006326345,1.2645047006326344
+2019,490,Flint city area,Black households,Genesee County (Central)--Flint City Area,70,TRUE,9870,0.019108280254777073,1.9108280254777072,0.023204172441914004,2.3204172441914004
+2019,490,Flint city area,White households,Genesee County (Central)--Flint City Area,64,TRUE,9715,0.015998400159984005,1.5998400159984005,0.020382458877140144,2.0382458877140146
+2020,489,Central Genesee outside Flint,Black households,"Genesee County (Central, Outside Flint City)",40,TRUE,5904,0.0049079754601227,0.49079754601227,0.009959404110392363,0.9959404110392364
+2020,489,Central Genesee outside Flint,White households,"Genesee County (Central, Outside Flint City)",197,TRUE,24642,0.00826901874310915,0.826901874310915,0.01194934785117193,1.194934785117193
+2020,490,Flint city area,Black households,Genesee County (Central)--Flint City Area,80,TRUE,17985,0.022642514651038892,2.2642514651038894,0.024435919153829398,2.4435919153829397
+2020,490,Flint city area,White households,Genesee County (Central)--Flint City Area,67,TRUE,7646,0.01671309192200557,1.6713091922005567,0.019331413894722562,1.9331413894722562
+2021,489,Central Genesee outside Flint,Black households,"Genesee County (Central, Outside Flint City)",35,TRUE,5906,0,0,0.006444434247725679,0.6444434247725679
+2021,489,Central Genesee outside Flint,White households,"Genesee County (Central, Outside Flint City)",222,TRUE,26573,0.007936507936507936,0.7936507936507936,0.014149348987835927,1.4149348987835926
+2021,490,Flint city area,Black households,Genesee County (Central)--Flint City Area,68,TRUE,10696,0.02230483271375465,2.2304832713754648,0.02656804663706686,2.6568046637066858
+2021,490,Flint city area,White households,Genesee County (Central)--Flint City Area,63,TRUE,8861,0.023333333333333334,2.3333333333333335,0.025739590079774558,2.573959007977456

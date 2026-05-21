@@ -1,0 +1,9 @@
+Flint water utility burden bar chart data availability
+Requested years: 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024
+Available years in cleaned RDS files: 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+Available Flint CPUMA years: 2016, 2017, 2018, 2019, 2020, 2021
+Missing requested years from cleaned RDS files: 2024
+Present but not safely identifiable as Flint CPUMAs: 2022, 2023
+
+Note: 2022-2023 have PUMA values, but CPUMA0010 is missing and STATEFIP was not retained in the cleaned RDS.
+Because PUMA codes repeat across states, this script does not infer Flint-area rows from PUMA alone.
